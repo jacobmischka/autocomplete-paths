@@ -1,7 +1,7 @@
 {
   "name": "autocomplete-system-paths",
   "main": "./lib/autocomplete-paths",
-  "version": "1.0.6",
+  "version": "0.0.0",
   "description": "Restores behavior of autocomplete-paths 1.0",
   "repository": "https://github.com/jacobmischka/autocomplete-system-paths",
   "license": "MIT",
