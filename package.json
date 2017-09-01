@@ -1,5 +1,5 @@
 {
-  "name": "autocomplete-paths",
+  "name": "autocomplete-system-paths",
   "main": "./lib/autocomplete-paths",
   "version": "1.0.5",
   "description": "Adds path autocompletion to autocomplete+",
