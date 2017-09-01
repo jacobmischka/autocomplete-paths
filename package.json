@@ -2,8 +2,8 @@
   "name": "autocomplete-system-paths",
   "main": "./lib/autocomplete-paths",
   "version": "1.0.6",
-  "description": "Adds path autocompletion to autocomplete+",
-  "repository": "https://github.com/atom-community/autocomplete-paths",
+  "description": "Restores behavior of autocomplete-paths 1.0",
+  "repository": "https://github.com/jacobmischka/autocomplete-system-paths",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
